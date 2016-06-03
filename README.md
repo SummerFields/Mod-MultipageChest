@@ -1,6 +1,6 @@
 Summerfields + MultipageChest
 
-1.9.X
+1.8.9
 
 ﻿03/06/2016
 
